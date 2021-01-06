@@ -15,7 +15,7 @@ import com.devsuperior.dsdeliver.repositories.ProductRepository;
 public class ProductService {
 
 	@Autowired
-	ProductRepository productRepository;
+	private ProductRepository productRepository;
 
 	@Transactional(readOnly = true)
 	public List<ProductDTO> findall() {
