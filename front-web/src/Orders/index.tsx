@@ -1,4 +1,3 @@
-import { error } from 'console';
 import React, { useEffect, useState } from 'react';
 import { fetchProducts, saveOrder } from '../api';
 import Footer from '../Footer';
