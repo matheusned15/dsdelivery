@@ -1,6 +1,6 @@
 # dsdelivery
 
-## Padrão camadas adotado
+## Padrão de camadas adotado
 
 ![Image](https://raw.githubusercontent.com/devsuperior/sds2/master/assets/camadas.png "Padrão camadas")
 
